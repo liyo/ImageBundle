@@ -1,5 +1,5 @@
 {
-    "name": "liyo/image-bundle",
+    "name": "gregwar/image-bundle",
     "type": "symfony-bundle",
     "description": "Image handling bundle",
     "keywords": ["symfony", "image"],
